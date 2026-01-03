@@ -140,7 +140,7 @@ Two WAV files are generated:
 - `output_echo.wav`: Input signal processed with echo effect
 - `output_reverb.wav`: Input signal processed with reverb effect
   
-## Code Implementation ([GitHub](https://github.com/yousefalfoqaha/convolution-reverb-simulator))
+## Code Implementation ([GitHub](https://github.com/yousefalfoqaha/convolution-reverb-simulator/blob/main/main.py))
 
 The code below was ran and tested to generate the audio outputs and visualizations.
 
